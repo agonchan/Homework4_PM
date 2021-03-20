@@ -11,7 +11,7 @@ Instagram’s founders - Kevin Systrom and Mike Krieger - sold their startup to 
 Many businesses were inspired by the success of Instagram. This success resulted in the appearance of other well-known photo-sharing apps: Swipe, Snapchat, Vine, Camera, Flickr. 
 So it is not surprising that we have a client who wishes to develop the Instagram-like application, but for particular user communities - for cosmetologists.
 
-- Below you will find a brief description of critical components of the Instagram technology stack:
+Below you will find a brief description of critical components of the Instagram technology stack:
 - Python/Django on the server side (back-end)
 - JavaScript and React.js for the website user interface (front-end)
 - React Native for the iOS and Android mobile apps
